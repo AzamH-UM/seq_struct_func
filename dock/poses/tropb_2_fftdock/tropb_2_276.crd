@@ -1,0 +1,36 @@
+REMARK  EXECUTING CHARMM SCRIPT FROM PYTHON                                           
+REMARK   DATE:    12/11/22     15:38: 5      CREATED BY USER: azamh                   
+ATOM      1  O1  LIG     1      57.664  47.444  46.050  1.00  0.00      LIGA
+ATOM      2  C1  LIG     1      56.976  46.820  46.854  1.00  0.00      LIGA
+ATOM      3  C2  LIG     1      57.542  46.388  48.184  1.00  0.00      LIGA
+ATOM      4  C3  LIG     1      58.611  47.332  48.766  1.00  0.00      LIGA
+ATOM      5  C4  LIG     1      59.216  46.829  50.080  1.00  0.00      LIGA
+ATOM      6  C5  LIG     1      55.535  46.493  46.533  1.00  0.00      LIGA
+ATOM      7  C6  LIG     1      55.058  45.172  47.111  1.00  0.00      LIGA
+ATOM      8  C7  LIG     1      55.620  43.939  46.762  1.00  0.00      LIGA
+ATOM      9  C8  LIG     1      56.662  43.888  45.696  1.00  0.00      LIGA
+ATOM     10  O2  LIG     1      57.406  42.955  45.451  1.00  0.00      LIGA
+ATOM     11  C9  LIG     1      55.201  42.772  47.405  1.00  0.00      LIGA
+ATOM     12  O3  LIG     1      55.815  41.538  47.099  1.00  0.00      LIGA
+ATOM     13  C10 LIG     1      54.176  42.810  48.355  1.00  0.00      LIGA
+ATOM     14  C11 LIG     1      53.686  41.558  49.054  1.00  0.00      LIGA
+ATOM     15  C12 LIG     1      53.588  44.036  48.656  1.00  0.00      LIGA
+ATOM     16  O4  LIG     1      52.652  44.130  49.495  1.00  0.00      LIGA
+ATOM     17  C13 LIG     1      54.034  45.195  48.050  1.00  0.00      LIGA
+ATOM     18  H1  LIG     1      57.999  45.382  48.050  1.00  0.00      LIGA
+ATOM     19  H2  LIG     1      56.720  46.294  48.926  1.00  0.00      LIGA
+ATOM     20  H3  LIG     1      58.147  48.329  48.944  1.00  0.00      LIGA
+ATOM     21  H4  LIG     1      59.432  47.470  48.027  1.00  0.00      LIGA
+ATOM     22  H5  LIG     1      58.416  46.659  50.833  1.00  0.00      LIGA
+ATOM     23  H6  LIG     1      59.933  47.572  50.488  1.00  0.00      LIGA
+ATOM     24  H7  LIG     1      59.754  45.871  49.915  1.00  0.00      LIGA
+ATOM     25  H8  LIG     1      55.402  46.460  45.431  1.00  0.00      LIGA
+ATOM     26  H9  LIG     1      54.903  47.319  46.928  1.00  0.00      LIGA
+ATOM     27  H10 LIG     1      56.756  44.791  45.062  1.00  0.00      LIGA
+ATOM     28  H11 LIG     1      56.549  41.729  46.495  1.00  0.00      LIGA
+ATOM     29  H12 LIG     1      54.308  40.675  48.796  1.00  0.00      LIGA
+ATOM     30  H13 LIG     1      52.635  41.367  48.748  1.00  0.00      LIGA
+ATOM     31  H14 LIG     1      53.732  41.719  50.153  1.00  0.00      LIGA
+ATOM     32  H15 LIG     1      53.569  46.133  48.323  1.00  0.00      LIGA
+TER      33      LIG      1
+END
